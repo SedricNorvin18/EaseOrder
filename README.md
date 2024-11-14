@@ -24,17 +24,17 @@ FoodOrder Mobile App.
 ## Home Screen
 ![Home Screen](assets/images/screenshot/Home.jpg)  
 
-## Sign In Screen
-![Sign In Screen](assets/images/screenshot/Login.jpg)  
+## Log In Screen
+![Log In Screen](assets/images/screenshot/Login.jpg)  
 
 ## Menu Screen
 ![Menu Screen](assets/images/screenshot/Menu.jpg)
 
 ## Order Summary Screen
-![Order Summary Screen](assets/images/screenshot/Receipt 2.jpg)
+![OrderSummaryScreen](assets/images/screenshot/Receipt 2.jpg)
 
 ## Order Summary Screen COD
-![Order Summary Screen COD](assets/images/screenshot/Contact Details.jpg)
+![OrderSummaryScreenCOD](assets/images/screenshot/Contact Details.jpg)
 
 ## Order Placed Screen
-![Order Placed Screen](assets/images/screenshot/Order Placed.jpg)
+![OrderPlacedScreen](assets/images/screenshot/Order Placed.jpg)
