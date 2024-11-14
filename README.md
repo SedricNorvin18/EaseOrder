@@ -31,10 +31,10 @@ FoodOrder Mobile App.
 ![Menu Screen](assets/images/screenshot/Menu.jpg)
 
 ## Order Summary Screen
-![OrderSummaryScreen](assets/images/screenshot/Receipt 2.jpg)
+![OrderSummaryScreen](assets/images/screenshot/Receipt2.jpg)
 
 ## Order Summary Screen COD
-![OrderSummaryScreenCOD](assets/images/screenshot/Contact Details.jpg)
+![OrderSummaryScreenCOD](assets/images/screenshot/ContactDetails.jpg)
 
 ## Order Placed Screen
-![OrderPlacedScreen](assets/images/screenshot/Order Placed.jpg)
+![OrderPlacedScreen](assets/images/screenshot/OrderPlaced.jpg)
