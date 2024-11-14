@@ -2,11 +2,13 @@
 FoodOrder Mobile App.
 
 ## Features
-* Browse Restaurants
+* Create account
+* Log in
+* Sign up
+* Browse Food Menu
 * Order Food
-* Track Orders in Real-Time
-* Rate and Review Food/Restaurants
-* Save Favorite Orders
+* Cash on Delivery
+* Online Payment
 
 ## Course Overview
 * Basic React Native Components
@@ -20,16 +22,21 @@ FoodOrder Mobile App.
 * HTML, Tailwind, and JavaScript
 
 ## Home Screen
-![Home Screen](assets/images/screenshot/home.png)  
-
-## Sign Up Screen
-![Sign Up Screen](assets/images/screenshot/signup.png)  
+![Home Screen](assets/images/screenshot/Home.png)  
 
 ## Sign In Screen
-![Sign In Screen](assets/images/screenshot/login.png)  
+![Sign In Screen](assets/images/screenshot/Login.png)  
 
 ## Menu Screen
-![Menu Screen](assets/images/screenshot/menu.png)
+![Menu Screen](assets/images/screenshot/Menu.png)
 
 ## Order Summary Screen
-![Order Summary Screen](assets/images/screenshot/order-summary.png)
+![Order Summary Screen](assets/images/screenshot/Receipt 2.png)
+
+## Order Summary Screen COD
+![Order Summary Screen COD](assets/images/screenshot/Contact Details.png)
+
+## Order Placed Screen
+![Order Placed Screen](assets/images/screenshot/Order Placed.png)
+
+
