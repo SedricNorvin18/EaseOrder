@@ -43,5 +43,5 @@ FoodOrder Mobile App.
 ![OrderPlacedScreen](assets/images/screenshot/OrderPlaced.jpg)
 
 
-## Demo Screen
+## Screen Demo
 https://youtu.be/QY2kNUx1eKc
