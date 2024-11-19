@@ -25,7 +25,10 @@ FoodOrder Mobile App.
 ![Home Screen](assets/images/screenshot/Home.jpg)  
 
 ## Log In Screen
-![Log In Screen](assets/images/screenshot/Login.jpg)  
+![Log In Screen](assets/images/screenshot/Login.jpg)
+
+## Sign Up Screen
+![Sign up Screen](assets/images/screenshot/Signup.jpg)
 
 ## Menu Screen
 ![Menu Screen](assets/images/screenshot/Menu.jpg)

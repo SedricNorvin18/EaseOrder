@@ -51,7 +51,7 @@ export default function App() {
           <View style={styles.buttonSpacing} />
 
           <Pressable style={styles.btn2}>
-            <Link href="./profile">
+            <Link href="./signup">
               <Text style={styles.btnText}>Sign Up</Text>
             </Link>
           </Pressable>
