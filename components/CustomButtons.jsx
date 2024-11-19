@@ -11,7 +11,7 @@ const CustomButton = ({title, handlePress, containerStyles, textStyles, isLoadin
         className ={`rounded-full bg-white min-w-[200px] px-12 py-3 shadow-lg hover:bg-[#0C9359] hover:text-white transition-all duration-300 ease-in-out ${containerStyles} ${isLoading ? 'opacity-100': ''}`}
         disabled={isLoading}
     >
-      <Text className ={`font-nestor text-2xl ${textStyles}`}>{title}</Text>
+      <Text className ={`font-cabiles text-2xl ${textStyles}`}>{title}</Text>
     </TouchableOpacity>
   )
 }
